@@ -1,0 +1,8 @@
+body {
+  padding: 24px;
+}
+
+.ant-table-wrapper .ant-table-tbody > tr > td {
+  padding: 8px 12px;
+  font-size: 13px;
+}
