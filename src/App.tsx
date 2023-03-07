@@ -33,8 +33,8 @@ interface NormalizedServer {
 }
 
 // cors service url - https://github.com/jolav/codetabs/issues/27
-// const corsServiceUrl = "https://api.codetabs.com/v1/proxy/?quest=";
-const corsServiceUrl = "https://api.codetabs.com/v1/tmp/?quest="; // temp alternative
+const corsServiceUrl = "https://api.codetabs.com/v1/proxy/?quest=";
+// const corsServiceUrl = "https://api.codetabs.com/v1/tmp/?quest="; // temp alternative
 const dataUrl = "http://cod4master.cod4x.ovh/serverstatus.json";
 
 const gameModLabels: Record<string, string> = {
